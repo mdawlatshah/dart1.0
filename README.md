@@ -1,23 +1,19 @@
-Dart Tutorial
+#Dart Tutorial
 
-Tools for Development:
+##Tools for Development:
+- Install VS Code
+- Install Dart Extension in VS Code
+- Dart SDK*
 
-Install VS Code
-
-Install Dart Extension in VS Code
-
-Dart SDK*
-
-check out the official Dart Documentation: 
+##check out the official Dart Documentation: 
 https://dart.dev/guides
 
-Dart Data Types
-
-Numbers
-Strings
-Booleans
-Lists
-Maps
+##Dart Data Types
+- Numbers
+- Strings
+- Booleans
+- Lists
+- Maps
 
 
 
