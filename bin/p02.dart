@@ -1,13 +1,9 @@
 void main() {
-  int a = 10;
-  int b = 5;
-
-  var age = 15;
-
   String name = "Tom";
-
   String dept = "ICP";
+  int age = 15;
 
   print("Name: " + name);
   print("Department: " + dept);
+  print("Age: " + "$age");
 }
